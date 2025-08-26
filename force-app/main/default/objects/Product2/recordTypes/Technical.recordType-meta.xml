@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RecordType xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Technical</fullName>
+    <active>true</active>
+    <description>Technical Product Record Type</description>
+    <label>Technical</label>
+    <picklistValues>
+        <picklist>Family</picklist>
+        <values>
+            <fullName>Hardware</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Miscellaneous</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>None</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Service</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Software</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Support</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
+        <picklist>QuantityUnitOfMeasure</picklist>
+        <values>
+            <fullName>Each</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+</RecordType>

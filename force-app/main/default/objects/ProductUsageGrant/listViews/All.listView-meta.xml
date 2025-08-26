@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ListView xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>All</fullName>
+    <columns>Name</columns>
+    <columns>ProductOffer</columns>
+    <columns>UsageResource</columns>
+    <columns>Quantity</columns>
+    <columns>UnitOfMeasure</columns>
+    <columns>Status</columns>
+    <columns>RenewalPolicy</columns>
+    <columns>RolloverPolicy</columns>
+    <filterScope>Everything</filterScope>
+    <label>All Product Usage Grants</label>
+</ListView>

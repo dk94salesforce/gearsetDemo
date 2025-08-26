@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>TotalInvoiceAmount</fullName>
+    <inlineHelpText>The total invoice amount can’t be summarised for the invoice batch draft to posted run if multiple currencies are processed.</inlineHelpText>
+</CustomField>
